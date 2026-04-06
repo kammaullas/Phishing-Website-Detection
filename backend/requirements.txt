@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+scikit-learn
+xgboost
+pandas
+numpy
+beautifulsoup4
+requests
+tldextract
+python-whois
+shap
+joblib
+pydantic
+slowapi
